@@ -1,0 +1,44 @@
+* Create a new component:
+    > src/app/property/property-card/property-card.component.cs
+
+* Update code in property-card.component.cs
+
+* Add component in app.modules.ts by name
+
+* Call component in app.component.html by it's selector name
+
+* Add property-card.component.html file
+
+* Add property-card.component.css file
+
+
+  ** Use 'template' attribute to write Inner html code in component
+  ** Use 'templateURL' attribute to define path of external html
+  ** Similarly use 'styleURL' attribute to define path of external css
+
+  ** Component can also be created through command line
+  > ng g c property-card
+
+* Create a new component using command line
+  > ng g c property-list
+
+
+* Create component using menu
+  > Right click app folder > Generate Component > nav-bar (Component Name)
+
+
+* Install bootstrap
+  > npm install bootstrap
+
+* Add bootstrap path in "styles" attribute of angular.json
+
+* Copy navbar code from bootstrap site and paste it in navbar.component.html
+
+* Update code in navbar.component.html
+
+* Add Property properties in PropertyCardComponent and call it in property-card.component.html
+
+* Update property card design in property-card.component.html
+
+* Run Git Commands in terminal
+  > git init (Directory Path) (Select Git terminal in terminals)
