@@ -40,5 +40,4 @@
 
 * Update property card design in property-card.component.html
 
-* Run Git Commands in terminal
-  > git init (Directory Path) (Select Git terminal in terminals)
+* Push code in git repo "https://github.com/rafay-112/StudyMashAngularWithDotNet"
